@@ -147,10 +147,6 @@ body {
   }
 }
 
-/* glass */
-
-
-
 img{
   width: 250px;
   position: absolute;
@@ -164,9 +160,6 @@ img{
   background-size: 10px;
 }
 
-
-.glass{
-  
   
   position: relative;
   width: 300px;
@@ -180,11 +173,6 @@ img{
   backdrop-filter: blur(6px);
   overflow: hidden;
 }
-
-
-
-/* button */
-
 
 .claim a{
   position: absolute;
@@ -230,11 +218,6 @@ img{
   font-size: 13.5px;
   
 }
-
-
-
-/* Input Text Field Style */
-
 
 .inputBox{
   position: absolute;
@@ -300,10 +283,6 @@ img{
   
 }
 
-
-/* text */
-
-
 .text-p{
   margin-top: 20px;
   margin-bottom: 20px;
@@ -328,10 +307,6 @@ img{
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
-
-/* banner ad */
-
 
 .banner-ad{
   width: 320px;
