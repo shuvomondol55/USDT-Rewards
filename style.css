@@ -147,9 +147,6 @@ body {
   }
 }
 
-/* glass */
-
-
 
 img{
   width: 250px;
@@ -180,10 +177,6 @@ img{
   backdrop-filter: blur(6px);
   overflow: hidden;
 }
-
-
-
-/* button */
 
 
 .claim a{
@@ -230,10 +223,6 @@ img{
   font-size: 13.5px;
   
 }
-
-
-
-/* Input Text Field Style */
 
 
 .inputBox{
@@ -301,9 +290,6 @@ img{
 }
 
 
-/* text */
-
-
 .text-p{
   margin-top: 20px;
   margin-bottom: 20px;
@@ -328,9 +314,6 @@ img{
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
-
-/* banner ad */
 
 
 .banner-ad{
